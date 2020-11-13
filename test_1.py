@@ -12,3 +12,33 @@ If the amount is equal, we output to the user “Option 1 and Option 2 pays the 
 If option1 is better, we output to the user “Option 1 is better”.
 If option2 is better, we output to the user “Option 2 is better”.
 """
+
+"""
+# option1
+return 100 * 10
+
+
+# option2
+amount = 1
+list1 = ()
+loop 10 times
+    add amount to list1
+    amount *= 2
+sum = sum of all items in loop
+return sum
+
+# main
+    var1 = option1
+    var2 = option2
+
+If var1 = var2
+    “Option 1 and Option 2 pays the same”
+If var1 < var2
+     “Option 2 is better”
+else
+    “Option 1 is better”
+
+
+main
+"""
+
